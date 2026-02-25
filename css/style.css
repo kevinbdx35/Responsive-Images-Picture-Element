@@ -88,7 +88,6 @@ nav ul {
     display: flex;
     flex-flow: row wrap;
     justify-content: space-around;
-    align-items: space-between;
 }
 
 nav li {
